@@ -1,0 +1,40 @@
+h1{
+    color: #333;
+    size: 12px;
+}
+
+h2{
+    color: #666;
+    size: 16px;
+}
+
+caption{
+    size: 14px;
+}
+
+th{
+    background-color: #666;
+    color: white;
+    size: 12px;
+}
+
+td{
+    background-color: #fff;
+}
+
+tfoot{
+    background-color: #ccc;
+}
+
+a{
+    color: blue;
+    size: 12px;
+}
+
+img{
+    width: 400;
+    height: 200;
+}
+table, th, td {
+    border: 1px solid black;
+  }
